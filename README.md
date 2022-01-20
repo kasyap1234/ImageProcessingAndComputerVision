@@ -2,10 +2,10 @@
 projects in image processing and computer vision
 
 
-## color to grayscale.py 
+## [Convert color to grayscale]
 converts the colored image to a grayscaled image. 
 
-## combine_images.py
+## [stitch images](combine_images.py)
 - Merging two images into a single image. 
 ## [change_brightness](changes_brightness.py)
 - changes brightness 
