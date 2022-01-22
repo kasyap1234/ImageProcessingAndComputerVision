@@ -11,3 +11,5 @@ converts the colored image to a grayscaled image.
 - changes brightness 
 - both brighter and darker 
 - option to change the factor of brightness and darkness 
+## [draw the borders](edge_detection.py)
+draw the borders (silhoutte) 
